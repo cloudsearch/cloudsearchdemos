@@ -1,4 +1,4 @@
-cloudsearchdemos
-================
+CloudSearchDemo
+===============
 
-Demos for using Amazon Cloudsearch
+Demo code for using [Amazon CloudSearch](http://aws.amazon.com/cloudsearch/)
