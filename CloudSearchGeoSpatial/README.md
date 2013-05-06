@@ -2,6 +2,8 @@ This project demonstrates using Amazon CloudSearch from HTML/JavaScript.
 
 The demo is a simple application that allows the user to search through a CloudSearch domain via Ajax. You can run the demo just by opening index.html in a browser. 
 
+A webinar on this topic is available at  http://www.youtube.com/watch?v=gepnHJVXj8E&feature=youtu.be
+
 The demo does depend on the sample cloudsearch domain geonames26 that is currently (2013/04/1) running. We make no guarantees about the domain's uptime or existence. The purpose of this project is to help you build interfaces to your own CloudSearch domains.
 
 You can search for items in the search box, and you can drill down with the facets. You can also move the map, as you would expect, and the displayed results will be updated. 
