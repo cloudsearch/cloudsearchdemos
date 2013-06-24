@@ -1,7 +1,7 @@
 CloudSearchGeoSpatial
 =====================
 
-This project demonstrates how to use [Amazon CloudSearch](http://aws.amazon.com/cloudsearch/) 
+This project demonstrates how to use Amazon CloudSearch 
 from HTML/JavaScript by implementing a location based search solution. 
 
 To run the demo, download the project and open the `index.html` file in a browser. 
@@ -17,8 +17,8 @@ The purpose of this project is to help you build interfaces to your own Amazon
 CloudSearch domains.
 
 For more information about location based searching with Amazon CloudSearch, see 
-[Searching and Ranking Results by Geographic Location](http://docs.aws.amazon.com/cloudsearch/latest/developerguide/geosearch.html) 
-in the Amazon CloudSearch Developer Guide and the [Building Location-Based Search with Amazon CloudSearch](http://www.youtube.com/watch?v=gepnHJVXj8E&feature=youtu.be) webinar.
+Searching and Ranking Results by Geographic Location 
+in the Amazon CloudSearch Developer Guide and the Building Location-Based Search with Amazon CloudSearch webinar on youtube.
 
 About the Implementation
 ------------------------
